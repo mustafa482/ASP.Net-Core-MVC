@@ -1,0 +1,69 @@
+﻿using Lesson1.Models;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Lesson1.Controllers
+{
+    public class ProductController : Controller
+    {
+        #region ViewResult
+        //public ViewResult GetProducts()
+        //{
+        //    ViewResult result = View();
+        //    return result;
+        //}
+        #endregion
+        #region PartialViewResult
+        //public PartialViewResult GetProducts()
+        //{
+        //    PartialViewResult result = PartialView();
+        //    return result;
+        //}
+        #endregion
+        #region JsonResult
+        //public JsonResult GetProducts()
+        //{
+        //    JsonResult result = Json(new Product
+        //    {
+        //        Id = 1,
+        //        ProductName = "Telefon",
+        //        Qauntity = 10
+        //    });
+
+        //    return result;
+        //}
+
+        #endregion
+        #region EmptyResut
+        //public EmptyResult GetProducts()
+        //{
+        //    return new EmptyResult();
+        //}
+        #endregion
+        #region ContentResult
+        //public ContentResult GetProducts()
+        //{
+        //    ContentResult result = Content("Champions Real Madrid");
+        //    return result;
+        //}
+        #endregion
+        #region ActionResult
+        //public ActionResult GetProducts()
+        //{
+        //    ContentResult result = Content("Content");
+        //    return result;
+        //}
+        #endregion
+        #region IActionResut
+        //public IActionResult GetProudcts()
+        //{
+
+        //}
+        #endregion
+
+
+    }
+}
