@@ -1,0 +1,49 @@
+﻿@using WebApplication1.Extensions
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, WebApplication1
+
+@*<a href="https://github.com/mustafa482">Github Mustafa</a>*@
+
+
+<email-tag-helpers a="abc" mail="https://github.com/mustafa482" display="Github" ></email-tag-helpers>
+
+
+
+@*<cache>
+    Cache:@DateTime.Now
+</cache>
+<br />
+@DateTime.Now
+
+
+
+
+
+<form asp-action="Index" asp-controller = "Product" method = "post">
+
+    <input type="text" />
+
+
+</form>*@
+
+
+
+@*<h1>GetProducts</h1>
+
+
+<div style = "border-top-color:ActiveBorder">
+
+    @Html.Partial("~/Views/Product/Partials/ListPartial.cshtml")
+    
+</div>*@
+
+
+
+@*@Html.TextBox("txtAdi",null,new {style = "background-color:green; color:white"})
+
+@Html.CustomTextBox("CustomtxtBox",null,"Adiniz")*@
+
+
+
+
