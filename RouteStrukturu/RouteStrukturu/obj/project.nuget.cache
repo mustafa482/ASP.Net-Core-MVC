@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vstUQWGQSEOFZSFxlZG8Xa1Iz3tpW0TVxkzDWbNT3FEYieTVCgFqjVPrxioX3BcmolD9WYQbIryT8LdTp7EkuA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\RouteStrukturu\\RouteStrukturu\\RouteStrukturu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

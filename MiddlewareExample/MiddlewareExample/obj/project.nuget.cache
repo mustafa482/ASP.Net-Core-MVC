@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMGl6juSGZQskzzD1AXo3OZJZFFW0FPPX6LNPK6njIFShCLLsRMxfD+U7A5yn76iAvDHd+zV2FAsJa68JM8Aww==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\MiddlewareExample\\MiddlewareExample\\MiddlewareExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
