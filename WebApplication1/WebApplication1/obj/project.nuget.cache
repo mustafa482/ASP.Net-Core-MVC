@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKQPGvVnxYhzXAROzaXgTZdrGuwy/6Kq7I3sXZ7xR3EMC7aW/kop1902g9br8AmP6C7UWeloluZI9Ade5xaI/w==",
+  "dgSpecHash": "/hMAWLEgywm6n4+F7rC+MyOKzqgdyvIQNeeCWTzZNENNHLJ5MzU2zUn5EHokd93kphnNC2/bApiU6IwnCwbPDQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",

@@ -6687,11 +6687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Users\\Mustafa\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Mustafa\\Desktop\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6755,7 +6755,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
