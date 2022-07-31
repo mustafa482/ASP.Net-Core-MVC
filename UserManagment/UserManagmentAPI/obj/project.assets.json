@@ -242,11 +242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\UserManagment\\UserManagmentAPI\\UserManagmentAPI.csproj",
+      "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\UserManagment\\UserManagmentAPI\\UserManagmentAPI.csproj",
       "projectName": "UserManagmentAPI",
-      "projectPath": "C:\\Users\\Mustafa\\source\\repos\\UserManagment\\UserManagmentAPI\\UserManagmentAPI.csproj",
+      "projectPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\UserManagment\\UserManagmentAPI\\UserManagmentAPI.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa\\source\\repos\\UserManagment\\UserManagmentAPI\\obj\\",
+      "outputPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\UserManagment\\UserManagmentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -302,7 +302,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

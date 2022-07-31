@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTesAnevJmoOS5XH7yX3dgilzup67W+Fn5TZ6AOmwxFfqNgBEQSbDqtjTEvEKZPrahXucKKFHbzD37T7yQG0Ew==",
+  "dgSpecHash": "srrezkwjLQLcxoSch8mRt9MBpg8W0KHlbPIPHhw6Ms5lIt7k+69KCUg8PMZ7himPNenQMQIovbQYsHQjmM8wkQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
+  "projectFilePath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

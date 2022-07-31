@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj": {}
+    "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj": {
+    "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
+        "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
         "projectName": "ViewModel_DTO",
-        "projectPath": "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
+        "projectPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\ViewModel_DTO.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Mustafa\\Desktop\\ViewModel_DTO\\ViewModel_DTO\\obj\\",
+        "outputPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(.Net Core+MVC)\\ViewModel_DTO\\ViewModel_DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
